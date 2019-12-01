@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Ultimate-Facebook-Scraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/facebook-post-scraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fbcrawl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/twitter-scraper" vcs="Git" />
+  </component>
+</project>
